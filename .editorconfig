@@ -14,9 +14,5 @@ charset=utf-8
 trim_trailing_whitespace = false
 max_line_length = 0
 
-[{*.json,*.yml}]
-indent_size = 2
-indent_style = space
-
 [COMMIT_EDITMSG]
 max_line_length = 0
